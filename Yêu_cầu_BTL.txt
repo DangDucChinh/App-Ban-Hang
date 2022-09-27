@@ -1,0 +1,12 @@
+c1 Tiefm hiểu các cN ứng dụng
+c2 : lí do chọn đề tài , phạm vi đề tài , Khảo sát và phân tích hệ thống 
+
+2.1 : Tìm hiểu thực tế , khảo sát 
+2.2 : Xem các mẫu thiết kế, đưa ra một vài mẫu.  
+2.3 : Biểu đồ ngữ cảnh : Xây dựng hệ thống, các tác nhân bên ngoài hệ thống tác động vào
+-> Biểu đồ các chức năng của hệ thống : mức đỉnh
+-> Hệ thống này làm cái gì 
+-> Sử dụng biểu đồ luồng dữ liệu, tuần tự , vvv
+-> 
+2.4 : 
+C3 : 
