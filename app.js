@@ -9,7 +9,7 @@ const adminRouter = require('./routes/admin/admin');
 const mongoose = require('mongoose');
 const uri = 'mongodb+srv://Chinh:zalo12345@cluster0.ktlpfjo.mongodb.net/test';
 
-app.use(express.static(path.join(__dirname, 'public','styles')));
+app.use(express.static(path.join(__dirname, 'public')));
 app.use('/images', express.static(path.join(__dirname, 'images')));
 
 
